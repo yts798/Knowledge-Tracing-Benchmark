@@ -23,3 +23,5 @@ The following should be runned
 pip install numpy==1.18.5
 pip install tensorflow==2.0.0
 pip install tensorflow-gpu==2.0.0
+
+![Example Image](./str1.png)
