@@ -1,0 +1,8 @@
+{
+    "batch_size": 256,
+    "num_epochs": 200,
+    "train_ratio": 0.8,
+    "learning_rate": 0.001,
+    "optimizer": "adam",
+    "seq_len": 100
+}

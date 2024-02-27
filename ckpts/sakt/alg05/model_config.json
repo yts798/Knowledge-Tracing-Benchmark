@@ -1,0 +1,6 @@
+{
+    "n": 200,
+    "d": 100,
+    "num_attn_heads": 5,
+    "dropout": 0.2
+}

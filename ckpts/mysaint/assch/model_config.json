@@ -1,0 +1,9 @@
+{
+    "MAX_SEQ": 100,
+    "EMBED_DIMS": 256,
+    "ENC_HEADS": 8,
+    "DEC_HEADS": 8,
+    "NUM_ENCODER": 4,
+    "NUM_DECODER": 4,
+    "BATCH_SIZE": 64
+}

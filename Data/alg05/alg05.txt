@@ -1,0 +1,22 @@
+Columns:
+['Row', 'Anon Student Id', 'Problem Hierarchy', 'Problem Name',
+       'Problem View', 'Step Name', 'Step Start Time',
+       'First Transaction Time', 'Correct Transaction Time', 'Step End Time',
+       'Step Duration (sec)', 'Correct Step Duration (sec)',
+       'Error Step Duration (sec)', 'Correct First Attempt', 'Incorrects',
+       'Hints', 'Corrects', 'KC(Default)', 'Opportunity(Default)',
+       'Problem Step Name']
+20 attributes
+student:
+'Anon Student Id' 
+575 To 574
+result: 
+'Correct First Attempt'
+question: 
+'Problem Step Name'
+1084 to 1084
+knowledge component: 
+'KC(Default)'
+437 to 398
+interaction:
+809694 to 542069

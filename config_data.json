@@ -1,0 +1,105 @@
+{
+  "ass09": {
+    "directory": "Data/ass09/",
+    "filename": "ass09.csv",
+    "kc": "skill_id",
+    "outcome": "correct",
+    "student": "user_id",
+    "a": "attempt_count",
+    "b": "first_action",
+    "c": "ms_first_response",
+    "d": "overlap_time"
+
+  },
+  "ass12": {
+    "directory": "Data/ass12/",
+    "filename": "ass12.csv",
+    "kc": "skill_id",
+    "outcome": "correct",
+    "student": "user_id",
+    "a": "Average_confidence(BORED)",
+    "b": "attempt_count",
+    "c": "Average_confidence(CONCENTRATING)"
+
+  },
+  "ass15": {
+    "directory": "Data/ass15/",
+    "filename": "ass15.csv",
+    "kc": "sequence_id",
+    "outcome": "correct",
+    "student": "user_id"
+  },
+  "assch": {
+    "directory": "Data/assch/",
+    "filename": "assch.csv",
+    "kc": "skill",
+    "outcome": "correct",
+    "student": "studentId",
+    "a": "confidence(FRUSTRATED)",
+    "b": "scaffold",
+    "c": "RES_BORED"
+  },
+  "stat": {
+    "directory": "Data/stat/",
+    "filename": "stat.csv",
+    "kc": "KC (F2011)",
+    "outcome": "Outcome",
+    "student": "Anon Student Id",
+    "a": "Is Last Attempt",
+    "b": "School",
+    "c": "Duration (sec)"
+  },
+  "junyi10": {
+    "directory": "Data/junyi10/",
+    "filename": "junyi10.csv",
+    "kc": "exercise",
+    "outcome": "correct",
+    "student": "user_id",
+    "a": "count_attempts",
+    "b": "points_earned",
+    "c": "time_taken"
+  },
+  "junyi18": {
+    "directory": "Data/junyi18/",
+    "filename": "junyi18.csv",
+    "kc": "upid",
+    "outcome": "is_correct",
+    "student": "uuid"
+  },
+  "alg05": {
+    "directory": "Data/alg05/",
+    "filename": "alg05_i.csv",
+    "kc": "KC(Default)",
+    "outcome": "Correct First Attempt",
+    "student": "Anon Student Id",
+    "a": "Problem Hierarchy",
+    "b": "Problem View"
+  },
+  "alg06": {
+    "directory": "Data/alg06/",
+    "filename": "alg06.csv",
+    "kc": "KC(Default)",
+    "outcome": "Correct First Attempt",
+    "student": "Anon Student Id",
+    "a": "Problem Hierarchy",
+    "b": "Problem View"
+  },
+  "algbg": {
+    "directory": "Data/algbg/",
+    "filename": "algbg.csv",
+    "kc": "KC(SubSkills)",
+    "outcome": "Correct First Attempt",
+    "student": "Anon Student Id",
+
+    "a": "Problem Hierarchy",
+    "b": "Step Duration (sec)",
+    "c": "Problem View"
+  },
+  "poj": {
+    "directory": "Data/poj/",
+    "filename": "poj.csv",
+    "kc": "Problem",
+    "outcome": "Result",
+    "student": "User"
+  }
+}
